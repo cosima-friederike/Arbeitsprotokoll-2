@@ -10,5 +10,6 @@ Wir haben uns heute mit dem Programm "AppLab" auseinandergesetzt, indem wir uns 
 #### Mittwoch, den 18.01.2023
 Wir haben heute mit unserem Spiel angefangen. Wir haben uns vorher dazu entschieden, ein Unterwasser-Spiel zu entwickeln, bei dem z.B. ein Fisch in einer bestimmten Zeit Münzen oder ähnliches einsammeln muss. Dabei muss dieser Fisch allerdings verschiedenen Objekten ausweichen. 
 Für den Anfang haben wir einen Startbutten auf dem ersten Screen erstellt, der den Spieler, wenn man ihn anklickt, zum zweiten Screen weiterleitet. Zusätzlich haben wir  diesen Screens auch einen Hintergrund mit einer Unterwasserwelt hinzugefügt. Viel weiter sind wir leider noch nicht gekommen, weil wir erst einmal ein wenig Zeit benötigten, um uns mit dem, für uns neuen Programm, auseinanderzusetzen. 
-
-Da das, was wir uns vorgestellt haben,jetzt aber mit AppLab leider nicht funktioniert, haben wir überlegt, stattdessen mit Greenfoot zu arbeiten. Da unsere Idee sich dort aber sehr den Projekten von anderen Mitschülern ähnelt, wollen wir diese Idee nun überarbeiten und uns bis nächste Woche etwas mit Greenfoot auseinandersetzen und neue Ideen sammeln.
+Da das, was wir uns vorgestellt haben,jetzt aber mit AppLab leider nicht funktioniert, haben wir uns vorgenommen eine neue Idee zu entwickeln.
+#### Dienstag, den 24.01.2023 
+Wir haben heute verschiedene Ideen besprochen und ein wenig mit AppLab experimentiert. Nachdem wir mehrere Ideen für Spiele gesammelt haben, haben wir schlussendlich dann überlegt, eine Art Quiz zu programmieren.
