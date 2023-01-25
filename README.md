@@ -18,4 +18,4 @@ Heute haben wir angefangen, das Quiz zu entwickeln. Das Quiz soll Allgemein- und
 Zudem haben wir die Variable "score" eingesetzt, um den Punktestand eines Spielers speichern und automatisch aktualisieren zu können, wenn dieser eine Frage richtig beantwortet. Die übrige Zeit des Unterrichts haben wir gebraucht, um uns Fragen zu überlegen und zu sammeln, sodass wir diese nächste Woche bei AppLab hinzufügen können.
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414772/214510689-67bbf050-289c-4eef-8b64-71d289ca982b.png)
-
+#### Dienstag, den 31.01.2023
