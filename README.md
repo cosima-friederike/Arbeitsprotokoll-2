@@ -13,3 +13,6 @@ Für den Anfang haben wir einen Startbutten auf dem ersten Screen erstellt, der 
 Da das, was wir uns vorgestellt haben,jetzt aber mit AppLab leider nicht funktioniert, haben wir uns vorgenommen eine neue Idee zu entwickeln.
 #### Dienstag, den 24.01.2023 
 Wir haben heute verschiedene Ideen besprochen und ein wenig mit AppLab experimentiert. Nachdem wir mehrere Ideen für Spiele gesammelt haben, haben wir schlussendlich dann überlegt, eine Art Quiz zu programmieren.
+#### Mittwoch, den 25.01.2023
+Heute haben wir angefangen, das Quiz zu entwickeln. Das Quiz soll Allgemein- und Schulwissen testen und verschiedene Themen beziehungsweise Fächer zur Auswahl anbieten. Zunächst haben wir einen Startscreen und die Fächerauswahl mit Mathe, Deutsch, Biologie und Geschichte gemacht und Buttons und deren Funktionen eingestellt, sodass man automatischen zum jeweiligen Fach und später zu den Fragen geleitet wird. 
+
