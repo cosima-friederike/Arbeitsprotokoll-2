@@ -19,3 +19,4 @@ Zudem haben wir die Variable "score" eingesetzt, um den Punktestand eines Spiele
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/111414772/214510689-67bbf050-289c-4eef-8b64-71d289ca982b.png)
 #### Dienstag, den 31.01.2023
+In dieser Stunde haben wir unsere zu heute überlegten Fragen zusammengetragen und versucht, diese in das Programm einzuführen. Allerdings hatten wir Schwierigkeiten damit, wie wir zwischen den Fragen wechseln können, wenn eine beantwortet wurde. Wir haben uns daher überlegt, dass wir morgen einen Button einfügen, der den Spieler beim Anklicken zur nächsten Frage weiterleitet.
