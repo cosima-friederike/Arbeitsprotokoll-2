@@ -31,4 +31,7 @@ Zu Beginn der Stunde ging heute leider etwas Zeit verloren, da Herr Buhl zu spä
 #### Mittwoch, den 15.02.2023
 Heute haben wir die Unterrichtsbeiträge der letzten beiden Stunden erneut verfassen müssen. Dies hat fast die ganze Stunde beansprucht. 
 #### Freitag, den 24.02.2023
+*Cosi* 
+#### Mittwoch, den 01.03.2023
+Heute ging leider viel Zeit verloren, da auf unserem PC Google Chrome deinstalliert war. Da wir aber über diesen Browser arbeiten sollen, haben wir Herrn Buhls Hilfe benötigt, der dann versuchte, das Problem zu finden und das Programm wieder herzustellen. So kurzfristig hat dies leider nicht geklappt und so mussten wir über Firefox arbeiten, was allerdings auch funktionierte. Insgesamt ging für dieses Problem leider eine halbe Schulstunde verloren und so konnten wir erst um 9 Uhr mit der Arbeit an unserem Projekt anfangen. 
 
