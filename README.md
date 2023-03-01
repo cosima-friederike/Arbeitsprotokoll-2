@@ -34,4 +34,5 @@ Heute haben wir die Unterrichtsbeiträge der letzten beiden Stunden erneut verfa
 *Cosi* 
 #### Mittwoch, den 01.03.2023
 Heute ging leider viel Zeit verloren, da auf unserem PC Google Chrome deinstalliert war. Da wir aber über diesen Browser arbeiten sollen, haben wir Herrn Buhls Hilfe benötigt, der dann versuchte, das Problem zu finden und das Programm wieder herzustellen. So kurzfristig hat dies leider nicht geklappt und so mussten wir über Firefox arbeiten, was allerdings auch funktionierte. Insgesamt ging für dieses Problem leider eine halbe Schulstunde verloren und so konnten wir erst um 9 Uhr mit der Arbeit an unserem Projekt anfangen. 
-
+Zu Beginn konnten wir glücklicherweise ein anderes Problem, das wir in den letzten Stunden noch nicht gelöst hatten, beheben und haben nun die Funktion, dass die Muscheln zu Wasserblasen / "Perlen" werden, wenn die Schildkröte diese berührt. Wenn die Schildkröte dann nochmals die Wasserblase berührt, verschwindet diese vom Spielfeld und der Spieler erhält einen Punkt. Danach haben wir ein zweites Kostüm für eine Muschel erstellt (die dunkle Muschel), der die Schildkröte ausweichen muss. Berührt der Spieler trotzdem eine dunkle Muschel, so wird ein Punkt abgezogen. 
+Zu Beginn einer Spielrunden sollen 3 helle Muscheln durch das Spiel "wandern". Jedes Mal, 
