@@ -39,3 +39,6 @@ Zu Beginn konnten wir glücklicherweise ein anderes Problem, das wir in den letz
 Danach haben wir ein zweites Kostüm für eine Muschel erstellt (die dunkle Muschel), dem die Schildkröte ausweichen muss. Berührt der Spieler trotzdem eine dunkle Muschel, so wird ein Punkt abgezogen. 
 Zu Beginn einer Spielrunde sollen 3 helle Muscheln durch das Spiel "wandern". Jedes Mal, wenn eine helle Muschel und anschließend die Wasserblase berührt wird, so erscheint automatisch eine neue helle Muschel, so wie Cosima in der letzen Stunde programmiert hat, und nun auch immer eine neue dunkle Muschel. So soll das Spiel im Laufe der Runde immer schwieriger werden, da es mit zunehmender Anzahl der dunklen Muscheln komplizierter wird, diesen auszuweichen. 
 Den Score müssen wir nächste Stunde allerdings noch hinzufügen. 
+#### Freitag, den 03.03.2023
+Heute war Distanzlerntag, daher konnten wir nicht gemeinsam in der Schule an dem Spiel arbeiten, haben die Zeit aber trotzdem genutzt und jeweils zu Hause am Projekt weitergearbeitet. 
+Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvideo auf Youtube angeschaut, sodass ich sehen konnte, welche Blöcke und Funktionen ich benötige, um erstens einen Punktezähler zu programmieren und zweitens den aktuellen Punktestand auf dem Spielbildschirm anzuzeigen. 
