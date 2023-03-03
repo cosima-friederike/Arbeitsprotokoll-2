@@ -41,4 +41,5 @@ Zu Beginn einer Spielrunde sollen 3 helle Muscheln durch das Spiel "wandern". Je
 Den Score müssen wir nächste Stunde allerdings noch hinzufügen. 
 #### Freitag, den 03.03.2023
 Heute war Distanzlerntag, daher konnten wir nicht gemeinsam in der Schule an dem Spiel arbeiten, haben die Zeit aber trotzdem genutzt und jeweils zu Hause am Projekt weitergearbeitet.
+
 Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvideo auf Youtube angeschaut, sodass ich sehen konnte, welche Blöcke und Funktionen ich benötige, um erstens einen Punktezähler zu programmieren und zweitens den aktuellen Punktestand auf dem Spielbildschirm anzuzeigen. 
