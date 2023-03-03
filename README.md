@@ -43,3 +43,4 @@ Den Score müssen wir nächste Stunde allerdings noch hinzufügen.
 Heute war Distanzlerntag, daher konnten wir nicht gemeinsam in der Schule an dem Spiel arbeiten, haben die Zeit aber trotzdem genutzt und jeweils zu Hause am Projekt weitergearbeitet.
 
 Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvideo auf Youtube angeschaut, sodass ich sehen konnte, welche Blöcke und Funktionen ich benötige, um erstens einen Punktezähler zu programmieren und zweitens den aktuellen Punktestand auf dem Spielbildschirm anzuzeigen. 
+Dies habe ich anschließend versucht, selbst umzusetzen und die Variable "score" erstellt. Diese wird mithilfe der Funktion "show title screen" durchgehend angezeigt und beträgt zu Beginn eines Spiels 0. Wenn der score um 1 größer werden soll, wird jedoch nicht "score:1" angezeigt, sondern "scoreNaN". Ich habe es leider noch nicht hinbekommen, diese Fehlanzeige zu beheben und richtigzustellen. 
