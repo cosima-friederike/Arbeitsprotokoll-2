@@ -31,7 +31,9 @@ Zu Beginn der Stunde ging heute leider etwas Zeit verloren, da Herr Buhl zu spä
 #### Mittwoch, den 15.02.2023
 Heute haben wir die Unterrichtsbeiträge der letzten beiden Stunden erneut verfassen müssen. Dies hat fast die ganze Stunde beansprucht. 
 #### Freitag, den 24.02.2023
-*Cosi* 
+In der heutigen Stunde war Friederike leider krank, wodurch ich alleine an dem Projekt arbeiten musste. Da wir aber noch keine festen neuen Ideen hatten sonder erstmal an unserem Schwierigkeiten weiterkommen wollten, hab ich dies versucht. 
+Wir wollten, dass, wenn die Schildkröte eine Muschel berührt, sich die Muschel in eine "Perle" verwandelt, dann "platzt" und anschließend verschwindet. Dies hat allerdings auch nach vielem Probieren nicht funktioniert, sodass ich mir ein paar alternativen überlegt habe, die ich Friederike in der nächsten Stunde vorstellen möchte.
+Außerdem habe ich probiert, einen "Score" zu erstellen. Ich habe erfahren wie man einen Score ändert, allerdings nicht wie man einen erstellt. Schlussendlich habe ich dann Mitschüler gefragt, die allerdings auch keine Antwort auf diese Frage hatten. 
 #### Mittwoch, den 01.03.2023
 Heute ging leider viel Zeit verloren, da auf unserem PC Google Chrome deinstalliert war. Da wir aber über diesen Browser arbeiten sollen, haben wir Herrn Buhls Hilfe benötigt, der dann versuchte, das Problem zu finden und das Programm wieder herzustellen. So kurzfristig hat dies leider nicht geklappt und so mussten wir über Firefox arbeiten, was allerdings auch funktionierte. Insgesamt ging für dieses Problem leider eine halbe Schulstunde verloren und so konnten wir erst um 9 Uhr mit der Arbeit an unserem Projekt anfangen. 
 
@@ -42,5 +44,5 @@ Den Score müssen wir nächste Stunde allerdings noch hinzufügen.
 #### Freitag, den 03.03.2023
 Heute war Distanzlerntag, daher konnten wir nicht gemeinsam in der Schule an dem Spiel arbeiten, haben die Zeit aber trotzdem genutzt und jeweils zu Hause am Projekt weitergearbeitet.
 
-Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvideo auf Youtube angeschaut, sodass ich sehen konnte, welche Blöcke und Funktionen ich benötige, um erstens einen Punktezähler zu programmieren und zweitens den aktuellen Punktestand auf dem Spielbildschirm anzuzeigen. 
+Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvideo auf Youtube angeschaut, sodass ich sehen konnte, welche Blöcke und Funktionen wir benötigen, um erstens einen Punktezähler zu programmieren und zweitens den aktuellen Punktestand auf dem Spielbildschirm anzuzeigen. 
 Dies habe ich anschließend versucht, selbst umzusetzen und die Variable "score" erstellt. Diese wird mithilfe der Funktion "show title screen" durchgehend angezeigt und beträgt zu Beginn eines Spiels 0. Wenn der score um 1 größer werden soll, wird jedoch nicht "score:1" angezeigt, sondern "scoreNaN". Ich habe es leider noch nicht hinbekommen, diese Fehlanzeige zu beheben und richtigzustellen. 
