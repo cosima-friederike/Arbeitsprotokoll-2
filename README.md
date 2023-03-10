@@ -50,4 +50,6 @@ Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvi
 Dies habe ich anschließend versucht, selbst umzusetzen und die Variable "score" erstellt. Diese wird mithilfe der Funktion "show title screen" durchgehend angezeigt und beträgt zu Beginn eines Spiels 0. Wenn der score um 1 größer werden soll, wird jedoch nicht "score:1" angezeigt, sondern "scoreNaN". Ich habe es leider noch nicht hinbekommen, diese Fehlanzeige zu beheben und richtigzustellen. 
 #### Mittwoch, den 08.03.2023
 Wir haben heute das Problem mit der Anzeige des scores gelöst, sodass der score nun korrekt angezeigt wird. Wird eine helle Muschel berührt, wird ein Punkt hinzugefügt, bei dunklen Muscheln wird ein Punkt wieder abgezogen. Als nächstes wollen wir eine Funktion einstellen, sodass eine Runde als gewonnen gilt, wenn eine bestimmte Punktanzahl erreicht wurde. Auch wollen wir ausprobieren, einen Zeitmesser zu programmieren und so die Spieldauer zu begrenzen. 
+
+![Screenshot (33)](https://user-images.githubusercontent.com/111414772/224300780-18b8c3c0-19ff-464c-b893-627df6b788d3.png)
 #### Freitrag, den 10.03.2023
