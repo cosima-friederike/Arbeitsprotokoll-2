@@ -58,3 +58,4 @@ Nächste Stunde müssen wir die Anzahl der dunklen Muscheln ändern, da diese zu
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/111414772/224311784-cc9acd28-1c2c-44b1-ac14-3b55900497b5.png)
 #### Mittwoch, den 15.03.2023
+Heute war Friederike krank und somit musste ich (Cosima) alleine weiter arbeiten. Wir haben ja letzte Stunde beschlossen, weiter zu versuchen, wie man einen Timer erstellt, also habe ich mir heute Tutorials angeguckt und dies versucht. Ich habe es auch geschafft und einen Timer eingestellt, der nach 1 Minute das Spiel mit Gameover beendet, wenn man noch nicht die Zielpunktzahl erreicht und den Pokal eingesammelt hat.
