@@ -53,8 +53,8 @@ Wir haben heute das Problem mit der Anzeige des scores gelöst, sodass dieser nu
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/111414772/224300780-18b8c3c0-19ff-464c-b893-627df6b788d3.png)
 #### Freitrag, den 10.03.2023
-Wie vorgenommen, haben wir heute die Funktion erstellt, dass mindestens 10 Punkte gesammelt werden müssen, damit ein neuer Sprite, der Pokal, erstellt wird. Nun muss der Spieler diesen berühren, um das Spiel zu gewinnen. Daraufhin werden alle Sprites entfernt und es wird ein neuer Hintegrund mit neuem Text ("congrats" und "you won") gezeigt. 
-Nächste Stunde müssen wir die Anzahl der dunklen Muscheln ändern, da diese zu schnell zu viele wwerden. 
+Wie vorgenommen, haben wir heute die Funktion erstellt, dass mindestens 20 Punkte gesammelt werden müssen, damit ein neuer Sprite, der Pokal, erstellt wird. Nun muss der Spieler diesen berühren, um das Spiel zu gewinnen. Daraufhin werden alle Sprites entfernt und es wird ein neuer Hintegrund mit neuem Text ("congrats" und "you won") gezeigt. 
+Nächste Stunde müssen wir die Anzahl der dunklen Muscheln ändern, da diese zu schnell zu viele werden. 
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/111414772/224311784-cc9acd28-1c2c-44b1-ac14-3b55900497b5.png)
 
