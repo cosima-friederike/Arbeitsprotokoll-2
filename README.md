@@ -57,4 +57,4 @@ Wie vorgenommen, haben wir heute die Funktion erstellt, dass mindestens 10 Punkt
 Nächste Stunde müssen wir die Anzahl der dunklen Muscheln ändern, da diese zu schnell zu viele werden. 
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/111414772/224311784-cc9acd28-1c2c-44b1-ac14-3b55900497b5.png)
-
+#### Mittwoch, den 15.03.2023
