@@ -60,5 +60,11 @@ Nächste Stunde müssen wir die Anzahl der dunklen Muscheln ändern, da diese zu
 #### Mittwoch, den 15.03.2023
 Heute war Friederike krank und somit musste ich (Cosima) alleine weiter arbeiten. Wir haben ja letzte Stunde beschlossen, weiter zu versuchen, wie man einen Timer erstellt, also habe ich mir heute Tutorials angeguckt und dies versucht. Ich habe es auch geschafft und einen Timer eingestellt, der nach 1 Minute das Spiel mit "Gameover" beendet, wenn man noch nicht die Zielpunktzahl erreicht und den Pokal eingesammelt hat.
 #### Freitag, den 17.03.2023
-Wir haben heute den Pokal umprogrammiert, sodass dieser seine Position und Größe verändert, und der Spieler ihn daher nicht direkt bekommt. Dann haben wir versucht, die Schrift zu verändern, was aber leider nicht möglich ist. Außerdem wollten wir den Timer, der das Spiel nach 60 Sekunden beendet, anzeigen. Dies haben wir aber trotz Tutorial nicht so hinbekommen, wie wir es gern hätten.
-+ dunkle Muscheln Anzahl versucht zu reduzieren 
+Wir haben heute den Pokal umprogrammiert, sodass dieser seine Position und Größe verändert, und der Spieler ihn daher nicht direkt bekommt. Dann haben wir versucht, die Schrift zu verändern, was aber leider nicht möglich ist. Außerdem wollten wir den Timer, der das Spiel nach 60 Sekunden beendet, anzeigen. Dies haben wir aber trotz Tutorial nicht so hinbekommen, wie wir es gern hätten. Zudem wollen wir noch die Anzahl der dunklen Muscheln ändern, da das Spielfeld sonst zu schnell von dunklen Muscheln gefüllt wird und der Spieler diesen kaum noch ausweichen kann.  
+#### Mittwoch, den 22.03.2023
+Die Stunde ist aufgrund der mündlichen Englischprüfungen ausgefallen.
+#### Freitag, den 24.03.2023
+Zu Beginn der Stunde haben wir uns überlegt, was wir noch bis zur Abgabe an unserem Spiel ändern und hinzufügen möchten, um einen besseren Überblick diesbezüglich zu haben. Dabei war unser größter Punkt nach wie vor die schnell steigende Anzahl der dunklen Muscheln und die daraus resultierende Unübersichtlichkeit. Wir haben also heute sehr lange überlegt und ausprobiert, wie wir dieses Problem beheben können. Unter anderem haben wir einen Zähler "DunkleMuscheln" erstellt, die Logik-Funktion "wenn" in Verbindung mit der Anzahl der dunklen Muscheln verwendet und das Entfernen der Muschel, wenn sie den Rand berührt, programmiert.
+Allerdings hat leider keiner dieser Ansätze funktioniert, weshalb wir schlussendlich entschieden haben, die Größe der Muscheln einfach zu verringern, sodass trotz vieler Muscheln auf dem Spielfeld genug Platz zum Ausweichen ist.
+![Screenshot (37)](https://user-images.githubusercontent.com/111414772/227510731-5ffa542f-8952-4c54-94d4-d13713d15ae0.png)
+
