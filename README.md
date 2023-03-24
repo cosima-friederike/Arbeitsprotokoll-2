@@ -68,3 +68,5 @@ Zu Beginn der Stunde haben wir uns überlegt, was wir noch bis zur Abgabe an uns
 Allerdings hat leider keiner dieser Ansätze funktioniert, weshalb wir schlussendlich entschieden haben, die Größe der Muscheln einfach zu verringern, sodass trotz vieler Muscheln auf dem Spielfeld genug Platz zum Ausweichen ist.
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/111414772/227510731-5ffa542f-8952-4c54-94d4-d13713d15ae0.png)
+
+Projektsweite
