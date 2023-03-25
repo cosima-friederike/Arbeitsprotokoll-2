@@ -65,8 +65,9 @@ Wir haben heute den Pokal umprogrammiert, sodass dieser seine Position und Grö�
 Die Stunde ist aufgrund der mündlichen Englischprüfungen ausgefallen.
 #### Freitag, den 24.03.2023
 Zu Beginn der Stunde haben wir uns überlegt, was wir noch bis zur Abgabe an unserem Spiel ändern und hinzufügen möchten, um einen besseren Überblick diesbezüglich zu haben. Dabei war unser größter Punkt nach wie vor die schnell steigende Anzahl der dunklen Muscheln und die daraus resultierende Unübersichtlichkeit. Wir haben also heute sehr lange überlegt und ausprobiert, wie wir dieses Problem beheben können. Unter anderem haben wir einen Zähler "DunkleMuscheln" erstellt, die Logik-Funktion "wenn" in Verbindung mit der Anzahl der dunklen Muscheln verwendet und das Entfernen der Muschel, wenn sie den Rand berührt, programmiert.
-Allerdings hat leider keiner dieser Ansätze funktioniert, weshalb wir schlussendlich entschieden haben, die Größe der Muscheln einfach zu verringern, sodass trotz vieler Muscheln auf dem Spielfeld genug Platz zum Ausweichen ist (siehe Foto). 
-Zusätzlich haben wir dann auf github ein neues Repository erstellt und mit der Projektseite für TURTLE RUN angefangen.
+Allerdings hat leider keiner dieser Ansätze funktioniert, weshalb wir letztendlich entschieden haben, die Größe der Muscheln einfach zu verringern, sodass trotz vieler Muscheln auf dem Spielfeld genug Platz zum Ausweichen ist (siehe Foto). 
+
+Zusätzlich haben wir ein neues Repository auf github erstellt und mit der Projektseite für TURTLE RUN angefangen.
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/111414772/227510731-5ffa542f-8952-4c54-94d4-d13713d15ae0.png)
 
