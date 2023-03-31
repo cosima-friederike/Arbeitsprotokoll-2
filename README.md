@@ -73,4 +73,5 @@ Zusätzlich haben wir ein neues Repository auf github erstellt und mit der Proje
 #### Mittwoch, den 29.03.2023
 Die Stunde ist ausgefallen.
 #### Freitag, den 31.03.2023
-Cosima war heute nicht da, weil ihre Klasse einen Deutsch-Fachtag hat. Ich (Friederike) habe an unserer Projektseite weitergearbeitet.
+Cosima war heute nicht da, weil ihre Klasse einen Deutsch-Fachtag hat. Ich (Friederike) habe an unserer Projektseite weitergearbeitet und unsere Protokolleinträge überarbeitet. 
+Dabei hat mich allerdings Selma (!!!) ziemlich viel abgelenkt und vollgelabert, mit Zeug, das mich absolut nicht interessiert. Auch hatr sie die ganze Stunde lang geshoppt und mir ultra hässliche Kleider gezeigt, die sie kaufen will. Total komischer style. 
