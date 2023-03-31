@@ -70,4 +70,7 @@ Allerdings hat leider keiner dieser Ansätze funktioniert, weshalb wir letztendl
 ![Screenshot (37)](https://user-images.githubusercontent.com/111414772/227510731-5ffa542f-8952-4c54-94d4-d13713d15ae0.png)
 
 Zusätzlich haben wir ein neues Repository auf github erstellt und mit der Projektseite für TURTLE RUN angefangen.
-
+#### Mittwoch, den 29.03.2023
+Die Stunde ist ausgefallen.
+#### Freitag, den 31.03.2023
+Cosima war heute nicht da, weil ihre Klasse einen Deutsch-Fachtag hat. Ich (Friederike) habe an unserer Projektseite weitergearbeitet.
