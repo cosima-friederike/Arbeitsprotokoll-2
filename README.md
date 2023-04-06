@@ -53,7 +53,7 @@ Wir haben heute das Problem mit der Anzeige des scores gelöst, sodass dieser nu
 
 ![Screenshot (33)](https://user-images.githubusercontent.com/111414772/224300780-18b8c3c0-19ff-464c-b893-627df6b788d3.png)
 #### Freitrag, den 10.03.2023
-Wie vorgenommen, haben wir heute die Funktion erstellt, dass mindestens 10 Punkte gesammelt werden müssen, damit ein neuer Sprite, der Pokal, erstellt wird. Nun muss der Spieler diesen berühren, um das Spiel zu gewinnen. Daraufhin werden alle Sprites entfernt und es wird ein neuer Hintegrund mit neuem Text ("congrats" und "you won") gezeigt. 
+Wie vorgenommen, haben wir heute die Funktion erstellt, dass mindestens 20 Punkte gesammelt werden müssen, damit ein neuer Sprite, der Pokal, erstellt wird. Nun muss der Spieler diesen berühren, um das Spiel zu gewinnen. Daraufhin werden alle Sprites entfernt und es wird ein neuer Hintegrund mit neuem Text ("congrats" und "you won") gezeigt. 
 Nächste Stunde müssen wir die Anzahl der dunklen Muscheln ändern, da diese zu schnell zu viele werden. 
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/111414772/224311784-cc9acd28-1c2c-44b1-ac14-3b55900497b5.png)
@@ -73,4 +73,5 @@ Zusätzlich haben wir ein neues Repository auf github erstellt und mit der Proje
 #### Mittwoch, den 29.03.2023
 Die Stunde ist ausgefallen.
 #### Freitag, den 31.03.2023
-Cosima war heute nicht da, weil ihre Klasse einen Deutsch-Fachtag hat. Ich (Friederike) habe an unserer Projektseite weitergearbeitet und unsere Protokolleinträge überarbeitet. 
+Cosima war heute nicht da, weil ihre Klasse einen Deutsch-Fachtag hat. Ich (Friederike) habe an unserer Projektseite weitergearbeitet und unsere Protokolleinträge überarbeitet. Außerdem habe ich TURTLE RUN ein paar Mal testweise durchgespielt, um sicherzugehen, dass alles funktioniert und angezeigt wird. Dabei habe ich festgestellt, dass wir den Mindest-score zum gewinnen zu hoch angesetzt haben und die Spielzeit zu knapp ist. Daher habe ich den score, den man zum gewinnen erreichen muss, von 20 zuerst auf 15, dann doch noch auf 12 heruntergesetzt und die Zeit auf 2 Minuten erweitert. Ansonsten hat erfreulicherweise alles funktioniert (sowohl wenn man gewinnt, als auch wenn man verliert und das Spiel abbricht). So konnte ich am Ende der Stunde auch eine Mitschülerin das Spiel einmal ausprobieren lassen. 
+Bis zur Abgabe müssen wir nun noch die Projektseite fertig stellen, indem wir alle Programmierungen beziehungsweise verwendeten Codes erklären, und die Protokollbeiträge zu Ende überarbeiten. Dies werden wir arbeitsteilig zuhause machen. 
