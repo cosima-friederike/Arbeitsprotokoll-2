@@ -68,11 +68,11 @@ Zudem müssen wir immer noch die Anzahl der dunklen Muscheln ändern, da das Spi
 Die Stunde ist aufgrund der mündlichen Englischprüfungen ausgefallen.
 #### Freitag, den 24.03.2023
 Zu Beginn der Stunde haben wir uns überlegt, was wir bis zur Abgabe am 08.04. an unserem Spiel noch ändern und hinzufügen möchten/müssen, um einen besseren Überblick zu haben. Dabei war unser wichtigstes "to-do" nach wie vor die zu schnell steigende Anzahl der dunklen Muscheln und die daraus resultierende Unübersichtlichkeit. Daher haben wir heute sehr lange überlegt und ausprobiert, wie wir dieses Problem beheben können. Unter anderem haben wir einen Zähler "DunkleMuscheln" erstellt, die Logik-Funktion "wenn" in Verbindung mit der Anzahl der dunklen Muscheln verwendet und das Entfernen der Muschel, wenn sie den Rand berührt, programmiert.
-Allerdings hat keiner dieser Ansätze funktioniert, weshalb wir letztendlich entschieden haben, die Größe der Muscheln zu verringern, sodass trotz vieler Muscheln auf dem Spielfeld genug Platz zum Ausweichen ist.
+Allerdings hat keiner dieser Ansätze funktioniert, weshalb wir letztendlich entschieden haben, die Größe der Muscheln zu verringern, sodass trotz vieler Muscheln auf dem Spielfeld genug Platz zum Ausweichen ist. Auch hätten wir gerne noch Soundeffekte bei TURTLE RUN hinzugefügt, zum Beispiel beim "Zerplatzen" der Wasserblasen. Leider gibt es die Möglichkeit für Geräusche bei SpriteLab jedoch nicht.
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/111414772/227510731-5ffa542f-8952-4c54-94d4-d13713d15ae0.png)
 
-Zusätzlich haben wir ein neues Repository auf github erstellt und mit der Projektseite für TURTLE RUN angefangen.
+Zusätzlich haben wir ein neues Repository auf github erstellt und mit der Projektseite für TURTLE RUN angefangen. 
 #### Mittwoch, den 29.03.2023
 Die Stunde ist ausgefallen.
 #### Freitag, den 31.03.2023
