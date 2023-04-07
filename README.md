@@ -1,4 +1,4 @@
-# Arbeitsprotokoll 2 von Cosima und Friederike
+# Arbeitstagebuch 2 von Cosima und Friederike
 ## Unterrichtstagebuch
 
 #### Dienstag, den 10.01.2023
