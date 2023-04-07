@@ -46,7 +46,7 @@ Danach haben wir ein zweites Kostüm für eine Muschel erstellt (die dunkle Musc
 Zu Beginn einer Spielrunde sollen 3 helle Muscheln durch das Spiel "wandern". Jedes Mal, wenn eine helle Muschel und anschließend die Wasserblase berührt wird, so erscheint automatisch eine neue helle Muschel, so wie Cosima in der letzen Stunde programmiert hat, und nun auch immer eine neue dunkle Muschel. So soll das Spiel im Laufe der Runde immer schwieriger werden, da es mit zunehmender Anzahl der dunklen Muscheln komplizierter wird, diesen auszuweichen. 
 Den Score müssen wir nächste Stunde allerdings noch hinzufügen. 
 #### Freitag, den 03.03.2023
-Heute war Distanzlerntag, daher konnten wir nicht gemeinsam in der Schule an dem Spiel arbeiten, haben die Zeit aber trotzdem genutzt und jeweils zu Hause am Projekt weitergearbeitet.
+Da heute Distanzlerntag war, konnten wir nicht gemeinsam in der Schule an dem Spiel arbeiten, aber haben die Zeit trotzdem genutzt und jeweils zu Hause am Projekt weitergearbeitet.
 
 Um einen Score in das Spiel einzubauen, habe ich mir (Friederike) ein Tutorialvideo auf Youtube angeschaut, sodass ich sehen konnte, welche Blöcke und Funktionen wir benötigen, um erstens einen Punktezähler zu programmieren und zweitens den aktuellen Punktestand auf dem Spielbildschirm anzuzeigen. 
 Dies habe ich anschließend versucht, selbst umzusetzen und die Variable "score" erstellt. Diese wird mithilfe der Funktion "show title screen" durchgehend angezeigt und beträgt zu Beginn eines Spiels 0. Wenn der score um 1 größer werden soll, wird jedoch nicht "score:1" angezeigt, sondern "scoreNaN". Ich habe es leider noch nicht hinbekommen, diese Fehlanzeige zu beheben und richtigzustellen. 
